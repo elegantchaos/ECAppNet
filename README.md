@@ -1,10 +1,10 @@
-** work in progress - this is an experimental app.net library, intended to expose roughly the same API as ECTwitter **
+**work in progress - this is an experimental app.net library, intended to expose roughly the same API as ECTwitter**
 
 ECAppNet is an open source app.net library, written in Objective-C, for Mac and iOS projects.
 
 The library is hosted on [github](http://github.com/elegantchaos/ECAppNet).
 
-You can clone it using the Git url <git://github.com/samdeane/ECAppNet.git>.
+You can clone it using the Git url [git://github.com/samdeane/ECAppNet.git].
 
 Full documentation is [available online](http://elegantchaos.github.com/ECAppNet/Documentation).
 
